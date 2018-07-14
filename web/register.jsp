@@ -17,10 +17,10 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
+<!--                    <tr>
                         <td>Enter Employee ID</td>
                         <td><input type="text" name="empID" value="" /></td>
-                    </tr>
+                    </tr>-->
                     <tr>
                         <td>First Name</td>
                         <td><input type="text" name="firstname" value="" /></td>
@@ -41,10 +41,10 @@
                         <td>Password</td>
                         <td><input type="password" name="pass" value="" /></td>
                     </tr>
-                    <tr>
+<!--                    <tr>
                         <td>Enter Your Salary</td>
                         <td><input type="text" name="salary" value="" /></td>
-                    </tr>
+                    </tr>-->
                     <tr>
                         <td>Enter Your Designation</td>
                         <td><input type="text" name="designation" value="" /></td>
